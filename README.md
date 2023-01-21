@@ -1,5 +1,8 @@
 # OsintForCrypto
-Osint for Crypto in this repository is to support the youtube video that i shared, including the script that i use in this video
+Osint for Crypto in this repository is to support the youtube video  that i shared
+this is the link : <b> https://www.youtube.com/watch?v=frMFG4OrG2E </b>
+
+including the script that i use in this video
 
 In the video i will try to help to how to use the Spiderfoot and also use the script of python that i use in video
 
